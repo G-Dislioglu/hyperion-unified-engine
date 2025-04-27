@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: hyperion_unified_engine
+Version: 0.1.0
+Requires-Dist: streamlit>=1.22.0
+Requires-Dist: pandas>=1.5.3
+Requires-Dist: plotly>=5.14.1
+Requires-Dist: requests>=2.28.2
+Requires-Dist: typing>=3.7.4.3
+Dynamic: requires-dist
